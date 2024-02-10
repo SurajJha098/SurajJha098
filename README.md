@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Ftheninehertz.com%2Fwp-content%2Fuploads%2F2020%2F08%2FPython-Allows-Multi-tasking.gif&tbnid=Nn2l7n0Mn71wIM&vet=12ahUKEwjeg7r20qGEAxU6jWMGHQC4Cn8QMygNegUIARCJAQ..i&imgrefurl=https%3A%2F%2Ftheninehertz.com%2Fblog%2Fintroduction-to-python-how-can-python-web-development-benefit-business&docid=jqZoNBQoOBbLrM&w=750&h=330&q=python%20banner%20gif&ved=2ahUKEwjeg7r20qGEAxU6jWMGHQC4Cn8QMygNegUIARCJAQ)]
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Suraj Jha</h1>
 <h3 align="center">Python | Machine Learning |Salesforce Administrator</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjha098&label=Profile%20views&color=0e75b6&style=flat" alt="surajjha098" /> </p>
 
